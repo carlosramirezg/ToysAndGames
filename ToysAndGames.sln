@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysApi", "ToysApi\ToysApi.csproj", "{7B928DA2-BDF7-41EF-8452-4E7124D6FDDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysDatabase", "ToysDatabase\ToysDatabase.csproj", "{1F6C3740-115D-423F-94C0-92E29A0DE119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToysTests", "ToysTests\ToysTests.csproj", "{3B117B3F-21DF-491C-BF6B-462302FC0ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B928DA2-BDF7-41EF-8452-4E7124D6FDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B928DA2-BDF7-41EF-8452-4E7124D6FDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B928DA2-BDF7-41EF-8452-4E7124D6FDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B928DA2-BDF7-41EF-8452-4E7124D6FDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6C3740-115D-423F-94C0-92E29A0DE119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6C3740-115D-423F-94C0-92E29A0DE119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6C3740-115D-423F-94C0-92E29A0DE119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6C3740-115D-423F-94C0-92E29A0DE119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B117B3F-21DF-491C-BF6B-462302FC0ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B117B3F-21DF-491C-BF6B-462302FC0ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B117B3F-21DF-491C-BF6B-462302FC0ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B117B3F-21DF-491C-BF6B-462302FC0ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685E84EC-F5A1-4EC7-9199-ADDE0ABB3631}
+	EndGlobalSection
+EndGlobal
